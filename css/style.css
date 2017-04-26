@@ -1,0 +1,24 @@
+body{
+ font-family: 'Yanone Kaffeesatz', sans-serif;
+ background-image:url(''); 
+}
+
+a {
+  font-size: 25px;
+}
+
+button {
+  
+  margin-top: 20px;
+  
+}
+
+ul {
+  list-style: none;
+  margin-top: 30px;
+  
+}
+
+#output{
+  padding: 0 0 0 0;
+}
